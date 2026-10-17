@@ -11,5 +11,3 @@ The public server has not been announced yet. Public builds do not offer single-
 Your game files are in `%LOCALAPPDATA%\SwordArtOffline\minecraft\instances\sao\.minecraft`. The launcher's **Game folder** button opens them. Worlds and personal settings are preserved during updates. A failed update keeps its recovery journal and backups in `%LOCALAPPDATA%\SwordArtOffline`.
 
 Windows x64 and an account that owns Minecraft Java Edition are required. The launcher includes Java. Minecraft installation and Microsoft account sign-in are provided by the unmodified [Prism Launcher](https://prismlauncher.org), downloaded from its official releases. Companion mods are downloaded from their authors; see the in-game mod credits.
-
-Client files can be inspected or modified by someone who controls their computer. Official progress and prize eligibility must be checked on the official server. A client-side restriction is not proof of fair play.
