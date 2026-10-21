@@ -6,9 +6,9 @@ On **Windows**, download **SAO-Launcher-Setup.exe** from the [latest release](ht
 
 For a portable installation, extract **SAO-Launcher-Windows-x64.zip** and open **SAO Launcher.exe** inside it. Keep the complete folder together.
 
-On **macOS**, download the [Apple Silicon ZIP](https://github.com/Cxrpss/sao-releases/releases/latest/download/SAO-Launcher-macOS-Apple-Silicon.zip) for an M-series Mac, or the [Intel ZIP](https://github.com/Cxrpss/sao-releases/releases/latest/download/SAO-Launcher-macOS-Intel.zip). Open the ZIP, drag **SAO Launcher.app** to Applications, then open it. Java is included. Windows `.exe` files cannot run on macOS. See [Mac instructions](https://github.com/Cxrpss/sao-releases/releases/latest/download/READ-ME-FIRST-MACOS.txt).
+On **macOS**, download [SAO-Launcher-macOS.zip](https://github.com/Cxrpss/sao-releases/releases/latest/download/SAO-Launcher-macOS.zip). The same app automatically detects **Apple Silicon or Intel** and uses the correct included Java runtime. Open the ZIP, drag **SAO Launcher.app** to Applications, then open it. No chip choice or separate Java installation is needed. Windows `.exe` files cannot run on macOS. See [Mac instructions](https://github.com/Cxrpss/sao-releases/releases/latest/download/READ-ME-FIRST-MACOS.txt).
 
-The Mac beta app is not notarized. If Apple cannot verify its developer, use **System Settings → Privacy & Security → Open Anyway** after attempting to open this official download. Mac checksums are in the separate `SHA256SUMS-MACOS-*` files.
+The Mac beta app is not notarized. If Apple cannot verify its developer, use **System Settings > Privacy & Security > Open Anyway** after attempting to open this official download. Mac checksums are in `SHA256SUMS-MACOS`.
 
 The launcher installs Minecraft, NeoForge, Sword Art Offline and its companion mods. Sign in with your own Minecraft Java account in the Microsoft sign-in window. Future releases appear in the launcher and under **Updates** in the game. **Update & Restart** verifies the download, closes Minecraft, installs the update, and starts Minecraft again.
 
