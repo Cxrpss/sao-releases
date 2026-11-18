@@ -2,13 +2,15 @@
 
 Official Windows and macOS player downloads for Sword Art Offline.
 
-On **Windows**, download [**SAO-Launcher-Setup.exe**](https://github.com/Cxrpss/sao-releases/releases/download/v0.2.71/SAO-Launcher-Setup.exe). Setup installs the launcher for your Windows account and lets you choose desktop and Start Menu shortcuts. Open **SAO Launcher** from the shortcut you chose.
+On **Windows**, download [**SAO-Launcher-Setup.exe**](https://github.com/Cxrpss/sao-releases/releases/download/v0.3.01/SAO-Launcher-Setup.exe). Setup installs the launcher for your Windows account and lets you choose desktop and Start Menu shortcuts. Open **SAO Launcher** from the shortcut you chose.
 
-For a portable installation, extract [**SAO-Launcher-Windows-x64.zip**](https://github.com/Cxrpss/sao-releases/releases/download/v0.2.71/SAO-Launcher-Windows-x64.zip) and open **SAO Launcher.exe** inside it. Keep the complete folder together.
+For a portable installation, extract [**SAO-Launcher-Windows-x64.zip**](https://github.com/Cxrpss/sao-releases/releases/download/v0.3.01/SAO-Launcher-Windows-x64.zip) and open **SAO Launcher.exe** inside it. Keep the complete folder together.
 
-On **macOS**, download [SAO-Launcher-macOS.zip](https://github.com/Cxrpss/sao-releases/releases/download/v0.2.71/SAO-Launcher-macOS.zip). The same app automatically detects **Apple Silicon or Intel** and uses the correct included Java runtime. Open the ZIP, drag **SAO Launcher.app** to Applications, then open it. No chip choice or separate Java installation is needed. Windows `.exe` files cannot run on macOS. See [Mac instructions](https://github.com/Cxrpss/sao-releases/releases/download/v0.2.71/READ-ME-FIRST-MACOS.txt).
+A fresh macOS installer for 0.3.0 is pending. The download below is the previous verified launcher; existing installations can update the game in the launcher.
 
-The Mac beta app is not notarized. If Apple cannot verify its developer, use **System Settings > Privacy & Security > Open Anyway** after attempting to open this official download. Mac launcher checksums are in [SHA256SUMS-MACOS](https://github.com/Cxrpss/sao-releases/releases/download/v0.2.71/SHA256SUMS-MACOS).
+On **macOS**, download [SAO-Launcher-macOS.zip](https://github.com/Cxrpss/sao-releases/releases/download/v0.2.7231/SAO-Launcher-macOS.zip). The same app automatically detects **Apple Silicon or Intel** and uses the correct included Java runtime. Open the ZIP, drag **SAO Launcher.app** to Applications, then open it. No chip choice or separate Java installation is needed. Windows `.exe` files cannot run on macOS. See [Mac instructions](https://github.com/Cxrpss/sao-releases/releases/download/v0.2.7231/READ-ME-FIRST-MACOS.txt).
+
+The Mac beta app is not notarized. If Apple cannot verify its developer, use **System Settings > Privacy & Security > Open Anyway** after attempting to open this official download. Mac launcher checksums are in [SHA256SUMS-MACOS](https://github.com/Cxrpss/sao-releases/releases/download/v0.2.7231/SHA256SUMS-MACOS).
 
 The launcher installs Minecraft, NeoForge, Sword Art Offline and its companion mods. Sign in with your own Minecraft Java account in the Microsoft sign-in window. Then choose **Connect Discord** and confirm your accounts. **A linked Discord account is required to play through the launcher, even if you were already whitelisted.** Staff-approved players do not need a paid Discord role. Eligible supporter roles receive automatic whitelist access after linking. Use the launcher's download-update icon to update the launcher itself; Minecraft sign-in and game files are preserved. Future game releases appear in the launcher and under **Updates** in the game. **Update & Restart** verifies the download, closes Minecraft, installs the update, and starts Minecraft again.
 
